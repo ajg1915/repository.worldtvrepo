@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.worldtvrepo" name="WorldTV Repo" version="1.0" provider-name="WORLDTV">
+	<extension point="xbmc.addon.repository" name="WorldTV Repo">
+		<info compressed="false">https://worldtvpro.000webhostapp.com/WorldTV/addons.xml</info>
+		<checksum>https://worldtvpro.000webhostapp.com/WorldTV/addons.xml.md5</checksum>
+		<datadir zip="true">http://firesticksloaded.oo.gd/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Your Info</summary>
+		<description>Your Info</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
